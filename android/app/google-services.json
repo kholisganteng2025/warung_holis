@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "479356964648",
+    "firebase_url": "https://kholis-warung-pbo-2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kholis-warung-pbo-2",
+    "storage_bucket": "kholis-warung-pbo-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479356964648:android:cf80634292bb5b69fe4a1d",
+        "android_client_info": {
+          "package_name": "com.example.qrcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBlYGu4LbS8iCuP62MXaEWqfLkmhngUdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
