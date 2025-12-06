@@ -23,7 +23,7 @@ Aplikasi ini diharapkan dapat mendukung operasional warung menjadi lebih tertata
 
 | Scan QR | PDF |
 |---------|------|
-| ![](assets/readme/qrcode.png.png) | ![](assets/readme/pdf.png) |
+| ![](assets/readme/qrcode.png) | ![](assets/readme/pdf.png) |
 
 
 
